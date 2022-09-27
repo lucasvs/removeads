@@ -1,0 +1,37 @@
+! redesul remover ads
+redesuldenoticias.com.br##.in.fade.modal
+redesuldenoticias.com.br##.in.fade.modal-backdrop
+redesuldenoticias.com.br##section.anuncio:nth-of-type(1)
+redesuldenoticias.com.br##.jlzTty.q8c6tt-0
+redesuldenoticias.com.br##.anuncio-footer.anuncio
+redesuldenoticias.com.br##div.col-xs-12.col-sm-12.col-md-12:nth-of-type(18)
+||redesuldenoticias.com.br/content/plugins/wp-fastest-cache-premium/pro/templates/youtube.html$subdocument
+redesuldenoticias.com.br##.hidden-xs.col-sm-3.col-md-3
+redesuldenoticias.com.br##.col-xs-12.col-sm-12.col-md-12.list-style-1.produtos-home
+redesuldenoticias.com.br##div.col-xs-12.col-sm-12.col-md-12:nth-of-type(16)
+redesuldenoticias.com.br##.col-xs-12.col-sm-12.col-md-12.rsn-tv > .box-border
+redesuldenoticias.com.br##.col-xs-12.col-sm-12.col-md-12.rsn-tv > .titulo-categoria
+redesuldenoticias.com.br##.visible-xs.anuncio-mobile > .container
+redesuldenoticias.com.br##.hidden-lg.hidden-md.hidden-sm.col-xs-12
+redesuldenoticias.com.br##.visible-xs.anuncio
+redesuldenoticias.com.br##div.col-xs-12.col-sm-12.col-md-12:nth-of-type(9)
+redesuldenoticias.com.br##.hidden-sm.hidden-xs.col-md-3 > aside > .anuncio
+redesuldenoticias.com.br##.col-xs-12.col-sm-12.col-md-12.rede-mais-home.list-style-1
+redesuldenoticias.com.br##div.col-xs-12.col-sm-12.col-md-12 > .anuncio
+
+
+
+! twitch remover menus de streams recomendadas
+www.twitch.tv##[aria-label$="Canais recomendados" i]
+www.twitch.tv##[aria-label$="também assistem" i]
+! botão prime twitch
+www.twitch.tv##.tw-animation--timing-ease-in.tw-animation--fill-mode-both.tw-animation--duration-medium.tw-animation--bounce-in.tw-animation--animate.tw-animation
+www.twitch.tv##.tw-relative.prime-offers > .tw-relative.tw-inline-block .tw-inline-flex .tw-core-button.tw-button-icon.gqSiKD.ScCoreButton-sc-1qn4ixc-0
+www.twitch.tv##.top-nav__prime
+
+
+! folha
+www1.folha.uol.com.br##.c-push-notification
+
+! twitter menu do lado de quem seguir
+twitter.com##[aria-label="Quem seguir"]:nth-ancestor(1)
